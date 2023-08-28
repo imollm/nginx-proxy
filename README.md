@@ -1,6 +1,6 @@
 # This an example of two microservices behind a nginx proxy server
 
-![Diagram](https://whimsical.com/nginx-proxy-Hgxe9Te77twc3yDPsgssTB)
+![Diagram](diagram.png)
 
 ## How to build and run all microservices
 
